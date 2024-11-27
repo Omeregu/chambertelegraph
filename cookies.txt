@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+emmynet24.com	TRUE	/	FALSE	1999999999	pvc_visits[0]	1732786258b55a1732786260b54a1732786263b141a1732786270b142a1732786271b140a1732786271b159a1732786283b158a1732786284b166
+emmynet24.com	TRUE	/	FALSE	1999999999	SameSite	LAX
+
